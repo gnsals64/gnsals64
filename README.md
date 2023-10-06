@@ -10,20 +10,23 @@
 <br />
 <br />
 <br />
-## My values
+
+## 🙋My values
 😎 모든것은 재미있어야 합니다<br />
 👌 안전성을 겸비한 속도를 지향 합니다<br />
 
 <br />
 <br />
 <br />
-## How i work
+
+## 🙋How i work
 
 
 <br />
 <br />
 <br />
-## Skills
+
+## 🙋Skills
 #### I use it often.
 
 </div>
