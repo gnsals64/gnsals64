@@ -10,8 +10,7 @@
 <br />
 <br />
 <br />
-
-## 🙋My values
+## My values
 😎 모든것은 재미있어야 합니다<br />
 👌 안전성을 겸비한 속도를 지향 합니다<br />
 
@@ -19,19 +18,17 @@
 <br />
 <br />
 
-## 🙋How i work
+## Skills
 
 
-<br />
-<br />
-<br />
-
-## 🙋Skills
-#### I use it often.
 
 </div>
 <br />
 <br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnsals64&layout=compact)](https://github.com/delay-100/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 Copyright ⓒ startupcode yaro
