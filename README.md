@@ -1,6 +1,5 @@
 ## 🙋 Tell about me
-![footer](https://capsule-render.vercel.app/api?section=footer)
-안녕하세요! 🙋‍♂️ 서버개발자 *hunpark* 입니다.
+안녕하세요! 🙋‍♂️ 서버개발자 _hunpark_ 입니다.
 저는 개발을 하면서 항상 가지고 있는 생각이 "왜?" 입니다.
 왜? 나는 개발을 하는가?
 - 내 손 끝에서 이뤄지는 작지만 복잡한 완성품을 보는 즐거음이 상당하다
